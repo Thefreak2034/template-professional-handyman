@@ -1,5 +1,5 @@
 /**
- * Shield Pest Control — Mid2 Template (Drill-inspired) — Pest Control variant
+ * TrueFix Handyman — Mid2 Template (Drill-inspired) — Handyman variant
  * main.js — Side panel nav, sticky header shadow, smooth scroll,
  * stats counter, scroll fade-in, contact form validation
  */
